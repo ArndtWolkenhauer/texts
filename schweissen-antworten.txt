@@ -1,0 +1,17 @@
+Antworten zum Thema Schweißen:
+
+1.	Das Metall-Schutzgasschweißen wird verwendet, um Metalle miteinander zu verbinden. Dabei wird über einen Lichtbogen, der durch elektrische Ströme entsteht, (Plus-Pol ist in der Schweißdüse; Minus-Pol das Werkstück), das Werkstück auf Temperatur zum Schmelzen gebracht. Außerdem benutzt man, um äußerliche Einflüsse wie z.B. Sauerstoffeinflüsse (Korrosion) zu vermeiden ein Schutzgas, das auf den Bereich geblasen wird und den Luftsauerstoff verdrängt. 
+2.	Die Widerstandspressschweißverfahren verbinden Werkstücke durch Wärme und Druck. Die Wärme entsteht durch elektrischen Strom. Die höchste Wärmeentwicklung entsteht dabei an den Stellen des größten elektrischen Widerstands. Die höchste Temperatur ergibt sich jeweils an den Kontaktstellen der zu verbindenden Werk stücke und den Elektroden. 
+3.	Inerte-Gase: Sie verhindern eine chemische Reaktion des Werkstoffs, indem sie den Sauerstoff verdrängen. Aktiv-Gase: Sie beeinflussen den Lichtbogen sowie das Werkstoffverhalten während des Schweißvorganges und beeinflussen die Schweißnahtbildung.
+4.	Punktschweißverfahren: Karosseriebau, Blechverkleidungen
+5.	Rollennahtschweißen: Benötigt man für Werkstücke die eine höhere Festigkeit und einen besseren Kraftfluss aufweisen müssen. (Massenproduktion am Fließband, Behälterbau).
+6.	Plasma wird auch als 4. Aggregatzustand bezeichnet. Ein Lichtbogen ist eine Gasentladung zwischen zwei Elektroden. Die Gasentladung bildet ein Plasma, in dem die Teilchen (Atome oder Moleküle) teilweise ionisiert sind. Die Ladungsträger haben zur Folge, dass das Gas elektrisch leitfähig wird.
+7.	Das Schutzgas schütz den Werkstoff vor den schädlichen Einflüssen des Luftsauerstoffes auf die Schweißnaht.
+8.	Helium, Argon, Gasgemische: Argon+ Sauerstoff
+9.	Da man mit diesem Gerät höhere Temperaturen erreicht (hohe Energiedichte).
+10.	Durch das Stichlochschweißen wird die gesamte erzeugte Energie auf das Bauteil übertragen und somit ist die Schmelze im gesamten Werkstück. Beim Schweißverlauf erfolgt hinter der eigentlichen Schmelze der Zusammenschluss des Werkstoffs.
+11.	Das Plasmaschweißen ist geeignet für Edelstähle, wobei sich die anderen Schutzgasschweißverfahren auf legierte, unlegierte Stähle und NE-Metalle beziehen.
+12.	Das Plasmaschweißverfahren wird hauptsächlich in automatisierten Prozessen verwendet, da man hierfür hohe Genauigkeiten benötigt und den Brenner ruhig halten muss.
+13.	Haushaltsgerätebau, Gehäusebau, Fassadenbau und Fahrzeugbau
+14.	Einbrandkerben, Poren, Endkrater, ungleichmäßige Schweißnähte
+15.	Schutzkleidung, Raum be- und entlüften, andere Personen durch Vorhänge bzw. Abschirmungen schützen, Augenschutz, Schutzbrille
