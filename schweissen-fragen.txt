@@ -1,0 +1,17 @@
+Fragen zum Thema Schweißen:
+
+1.	Beschreiben Sie das Verfahrensprinzip des Metall-Schutzgasschweißens. 
+2.	Beschreiben Sie das Funktionsprinzip einer Widerstandsschweißung.
+3.	Was unterscheidet inerte Gase von aktiven Gasen?
+4.	Nennen Sie Einsatzmöglichkeiten für das Punktschweißverfahren 
+5.	Nennen Sie Einsatzmöglichkeiten für das Rollennahtschweißen
+6.	Was ist ein Plasma?
+7.	Welche Aufgabe hat das Schutzgas?
+8.	Welche Schutzgase werden eingesetzt?
+9.	Warum wird das WIG-Schweißen insbesondere zum Wurzelschweißen eingesetzt?
+10.	Beschreiben Sie die Stichlochtechnik beim Plasma schweißen.
+11.	Worin unterscheidet sich das Plasmaschweißen von den anderen Schutzgasschweißverfahren?
+12.	Nennen Sie Einsatzgebiete für das Plasmaschweißen.
+13.	In welchen Bereichen wird das Lichtbogenbolzen-Schweißverfahren angewendet?
+14.	Nennen Sie verschiedene mögliche Schweißfehler, die durch optische Prüfung festgestellt werden können.
+15.	Welche allgemeinen Unfallverhütungsmaßnahmen haben Sie beim Schweißen zu beachten.
