@@ -1,0 +1,13 @@
+Surface texture parameters 
+The scanned primary profiIe (figure) shows the totaI heights of a surface. Filtering the primary profile (P-profile) leads to the rough ness profile (R-profile) and the waviness profile (W-profile). The R-profile (figure) shows the peaks, the valleys around a centre line. The surface texture parameters are mostly calculated by the R-profile. There are several surface parameters: Rz is widely used in Europe, Ra is the most specified U.S. parameter. Another parameter is Rmax (maximum peak to valley height). Ra (arithmetic average roughness) considers all peaks and valleys of the roughness profile (figure). One deep scratch in material is neutralised and has no significant influence on the final result. Rz (average peak to valley height) considers only the five highest peaks and the five deepest valleys (figure). Extremes have a much greater influence on the final result. The complete evaluation length is divided into 5 cut-offs. In each cut-off the highest distance between peak and valley is a value (Rz1–Rz5). Formula: Rz= 1/5 (Rz1+Rz2+Rz3+Rz4+Rz5) 
+Rmax (maximum peak to valley height) is the maximum height of the five values in the sampling length. The surface parameters are shown in technical drawings by symbols (table). To achieve a very high surface texture you need to choose the correct type of manufacturing. In your Metal Trades Handbook are tables to choose the correct manufacturing technology. 
+Achievable Rz-values: 
+Grinding: Rz = 1.6–4 µm 
+Milling: Rz = 10–63 µm 
+Drilling: Rz = 40–160 µm 
+
+Exercises 
+1. Which surface texture parameters are often used in USA and which in Germany? 
+2) Explain the difference between the surface parameter Rmax and Rz. 
+3) Why is the surface texture parameter Rmax not a very reliable value? 
+
